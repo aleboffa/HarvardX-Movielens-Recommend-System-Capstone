@@ -18,5 +18,5 @@ Also, the final resul of the best model, was RMSE = 0.8626426, much better than 
 Regards,
 
 Alejandro Boffa
-
-University expert in ethical hacking
+Ethical Hacking University Expert
+https://www.linkedin.com/in/alejandro-oscar-boffa-3268a617a/
