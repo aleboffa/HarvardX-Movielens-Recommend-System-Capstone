@@ -12,10 +12,11 @@ Note: after too much work and investigation, I decided install Microsoft R Open 
 
 Regards,
 
-Alejandro Boffa  
+Alejandro Boffa 
 
-Ethical Hacking University Expert 
-Professional data scientist
+
+Ethical Hacking University Expert ,
+Professional data scientist ,
 Python Developer
 
 https://www.linkedin.com/in/alejandro-oscar-boffa/
