@@ -16,7 +16,7 @@ Alejandro Boffa
 
 
 Ethical Hacking University Expert ,
-Professional data scientist ,
+Professional Data Scientist ,
 Python Developer
 
 https://www.linkedin.com/in/alejandro-oscar-boffa/
